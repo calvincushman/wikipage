@@ -1,4 +1,20 @@
 .sidebar {
   width: 100px;
   float: left;
+  margin-left: 20px;
+}
+.sidebar img {
+  width: 150px;
+  height: auto;
+}
+.head {
+  float:right;
+}
+.head a {
+  padding: 2px;
+  margin: 2px;
+}
+
+.headline {
+  padding-top: 50px;
 }
