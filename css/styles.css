@@ -1,20 +1,15 @@
-.sidebar {
-  width: 100px;
-  float: left;
-  margin-left: 20px;
-}
-.sidebar img {
-  width: 150px;
-  height: auto;
-}
-.head {
-  float:right;
-}
-.head a {
-  padding: 2px;
-  margin: 2px;
+.container {
+  padding: 0%;
+  margin: 0%;
 }
 
-.headline {
-  padding-top: 50px;
+.feature {
+  background-color: #f5fffa;
 }
+
+.news {
+  background-color: #f5faff;
+}
+ .welcome{
+   background-color: #f9f9f9;
+ }
